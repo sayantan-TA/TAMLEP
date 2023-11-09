@@ -1,0 +1,6 @@
+# ignore all .a files
+* .a
+# butto track lib.a , even through ur ignoring .a files above
+!lib.a
+#only ignore the TODO file is the current directory , not subdir/TODO
+/TODO
