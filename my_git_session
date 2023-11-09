@@ -1,0 +1,1094 @@
+Script started on 2023-11-08 17:04:10+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;kiit@IT1906058: /mnt/c/Users/KIIT[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT[00m$ [K]0;kiit@IT1906058: /mnt/c/Users/KIIT[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT[00m$ [K]0;kiit@IT1906058: /mnt/c/Users/KIIT[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT[00m$ cd /././ /[K[K
+]0;kiit@IT1906058: /mnt/c/Users[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users[00m$ cd ..
+]0;kiit@IT1906058: /mnt/c[01;32mkiit@IT1906058[00m:[01;34m/mnt/c[00m$ cd..
+cd..: command not found
+]0;kiit@IT1906058: /mnt/c[01;32mkiit@IT1906058[00m:[01;34m/mnt/c[00m$ cd.. ..
+]0;kiit@IT1906058: /mnt[01;32mkiit@IT1906058[00m:[01;34m/mnt[00m$ cd ..
+]0;kiit@IT1906058: /[01;32mkiit@IT1906058[00m:[01;34m/[00m$ ^V^V[K[Kssh [K-keygen -t rsa -b 4096
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/kiit/.ssh/id_rsa): 
+Created directory '/home/kiit/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/kiit/.ssh/id_rsa
+Your public key has been saved in /home/kiit/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:AlWZmv5pSvL21Ebmf+bmTO8zkSi4wddSVVcAHNM1Aqo kiit@IT1906058
+The key's randomart image is:
++---[RSA 4096]----+
+|      ...o o==.+B|
+|     .  o . ..o.o|
+|    .  o .    .  |
+|     .o .    .   |
+|     ..ES + o . .|
+|      .. O + o o |
+|    . ....B o . .|
+|     +..+o . o++ |
+|     .o+.   .*+.=|
++----[SHA256]-----+
+]0;kiit@IT1906058: /[01;32mkiit@IT1906058[00m:[01;34m/[00m$ cd /home
+]0;kiit@IT1906058: /home[01;32mkiit@IT1906058[00m:[01;34m/home[00m$ /[Kcd /KIIT
+bash: cd: /KIIT: No such file or directory
+]0;kiit@IT1906058: /home[01;32mkiit@IT1906058[00m:[01;34m/home[00m$ cd /KIIT[K[K[K[Kkiit/.ssh
+bash: cd: /kiit/.ssh: No such file or directory
+]0;kiit@IT1906058: /home[01;32mkiit@IT1906058[00m:[01;34m/home[00m$ cd /kiit/.ssh[K[K[K[K[K
+bash: cd: /kiit: No such file or directory
+]0;kiit@IT1906058: /home[01;32mkiit@IT1906058[00m:[01;34m/home[00m$ cd /kiit[1Pkiit
+]0;kiit@IT1906058: ~[01;32mkiit@IT1906058[00m:[01;34m~[00m$ cd .[K/home/KIIT/.ssh/id_rsa[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd /home/kiit/.ssh
+]0;kiit@IT1906058: ~/.ssh[01;32mkiit@IT1906058[00m:[01;34m~/.ssh[00m$ ls
+id_rsa  id_rsa.pub
+]0;kiit@IT1906058: ~/.ssh[01;32mkiit@IT1906058[00m:[01;34m~/.ssh[00m$ cat id_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDSkmLAcYvGq4CY/Z6wWk5nAS5FNsO0q/k9GYU4tMURARMWB+rSkFyL/qCH7QN8yHYI3lHveG8AvNQ7Afrp7NENT2hFpvhuXef0vGfh5mOIhTIoUmrmwnFB39XqKM6ZB9TSsQ3HvCHtGlGehu+gRjGQridOATKr+ztAzVTCVySIBXRffMsHYwMwLblYIVZvc9PDPF0O/qj7XkI+/zzkY14pkOhT8aR+cLjtcxKF79bdLPFnR3WmJMPIDcH0mxeUuZMamnEu8wPqQlGEVm5SzKxB89Ma+OeWYwlewEcUCAhC7rWnD2/lXN+p4MxJuSwCJKqXc2joKQOKA9wTUyKf+KeExAQn7aGsi1sK4NcRgV78Z1i/eweCtz7kk+H1dCPHU1zwjMVyglamyVKYyU3Ny311wBzUi4ucNzQSjffIrtO2lZ6f1L7+WHtuuP4WScQU1xJXWGHdXnhtydZgs6yX2sXL4mtJY8xjZUoX9/K+6RW0ad3DAWHtkLIRvvIR2TOMd5GG3IOt6JKV3iE9V2YSVMX/YxcYYt9H7kz+TRtnINASXYNKe/o+DSYhPt0aCV4weCDUHb9lLZdh8deDvyOMk65w7cyTzVtcLbUzFCCoyh4zQymSSVO70LsAZfuvZ2oRykDCTDcTmoT95gurZ5BSU7tQZyNZ7NfDlU6MUKChISn/Zw== kiit@IT1906058
+]0;kiit@IT1906058: ~/.ssh[01;32mkiit@IT1906058[00m:[01;34m~/.ssh[00m$ [K]0;kiit@IT1906058: ~/.ssh[01;32mkiit@IT1906058[00m:[01;34m~/.ssh[00m$ [K]0;kiit@IT1906058: ~/.ssh[01;32mkiit@IT1906058[00m:[01;34m~/.ssh[00m$ cd ..
+]0;kiit@IT1906058: ~[01;32mkiit@IT1906058[00m:[01;34m~[00m$ cd /mnt/c/Users/KIIT/Desktop
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git clone git@github.com:sayantan-TA/TAMLEP.gir[Kt
+Cloning into 'TAMLEP'...
+The authenticity of host 'github.com (20.207.73.82)' can't be established.
+ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,20.207.73.82' (ECDSA) to the list of known hosts.
+warning: You appear to have cloned an empty repository.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git init [K
+Initialized empty Git repository in /mnt/c/Users/KIIT/Desktop/.git/
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mAdvanced Python/[m
+	[31mMAMI_documents/[m
+	[31mML/[m
+	[31mOld Firefox Data/[m
+	[31mSQL_ANS_1.txt[m
+	[31mTAMLEP/[m
+	[31mTelegram.lnk[m
+	[31mVisual Studio Code.lnk[m
+	[31mdesktop.ini[m
+	[31mmy info/[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+	[31mpython resources/[m
+	[31msample_project/[m
+	[31mshell-lesson-data/[m
+	[31msql/[m
+	[31mtiger forms/[m
+	[31mtiger_assingment/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop[00m$ cd TAMLEP
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ cd TAMLEPgit status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ echo ''M'y' 'P'r'o'j'r'[1P'e'c't'[C > README
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add README 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git S[Kstatus
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git ass [K[K[Kdd CONTRIBUTING.md
+fatal: pathspec 'CONTRIBUTING.md' did not match any files
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git stt[Katus -s
+[32mA[m  README
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ cat .gitignore
+cat: .gitignore: No such file or directory
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ echo ''C'O'N'T'R'I'B'U'T'I'N'G'.'m'd'[C [K[K[Kd''[K > README
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   README[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add README
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ GI[K[Kgit status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git statusadd README[K[K[K[K[K[KCONTRIBUTING.MD
+fatal: pathspec 'CONTRIBUTING.MD' did not match any files
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add CONTRIBUTING.MD[K[Kmd
+fatal: pathspec 'CONTRIBUTING.md' did not match any files
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add CONTRIBUTING.mdMDstatus[Kadd README[4Pstatusecho 'CONTRIBUTING.md' > README[1@D[1@D[1P[1P[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[1P[1P[1P[1P 'CONTRIBUTING.md[1P'CONTRIBUTING.md[1PCONTRIBUTING.mdgCONTRIBUTING.mdiCONTRIBUTING.mdtCONTRIBUTING.md CONTRIBUTING.mdaCONTRIBUTING.mddCONTRIBUTING.mddCONTRIBUTING.md CONTRIBUTING.md
+fatal: pathspec 'CONTRIBUTING.md' did not match any files
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git diff
+[?1h=[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt diff --cached
+[?1h=[1mdiff --git a/README b/README[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..a1892e3[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/README[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mCONTRIBUTING.md[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;54H(B[0;7m[ Reading... ](B[m[16;52H(B[0;7m[ Read 11 lines ](B[m[H(B[0;7m  GNU nano 4.8                      /mnt/c/Users/KIIT/Desktop/TAMLEP/.git/COMMIT_EDITMSG                                [1;119H(B[m[17d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[16d[3d[39;49m[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch master[7d#[8d# Initial commit[9d#[10d# Changes to be committed:[11d#       new file:   README[12d#[2d[39m(B[m[?12l[?25h[?25l[17;16H[15X[17;31H(B[0;7mM-D(B[m DOS Format[16X[17;61H(B[0;7mM-A(B[m Append[15X[17;93H(B[0;7mB(B[m Backup File[K[18;2H(B[0;7mC(B[m Cancel[16G[15X[18;31H(B[0;7mM-M(B[m Mac Format[16X[18;61H(B[0;7mM-P(B[m Prepend[19X[18;91H(B[0;7m^T(B[m To Files[K[16d(B[0;7mFile Name to Write: /mnt/c/Users/KIIT/Desktop/TAMLEP/.git/COMMIT_EDITMSG                                                [16;1H(B[m[16;73H[?12l[?25h[?25l[16;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[16;52H(B[0;7m[ Wrote 11 lines ](B[m[17;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[18;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[16d[2d[?12l[?25h[?25l[16d[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l[KAborting commit due to empty commit message.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gti[K[Kit commit -m ""s"t"o"r"y" "1"8"2" ":" "f"i"x" "b"e"n"c"h"m"a"r"k"s" "f"o"r" "s"p"e"e"d" "[1P"[C
+[master (root-commit) 54bb67e] story 182 : fix benchmarks for speed
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log
+[?1h=[33mcommit 54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Wed Nov 8 23:56:36 2023 +0530[m
+[m
+    story 182 : fix benchmarks for speed[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log -p -2
+[?1h=[33mcommit 54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Wed Nov 8 23:56:36 2023 +0530[m
+[m
+    story 182 : fix benchmarks for speed[m
+[m
+[1mdiff --git a/README b/README[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..a1892e3[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/README[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mCONTRIBUTING.md[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log --stat
+[?1h=[33mcommit 54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Wed Nov 8 23:56:36 2023 +0530[m
+[m
+    story 182 : fix benchmarks for speed[m
+[m
+ README | 1 [32m+[m[m
+ 1 file changed, 1 insertion(+)[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log --pretty=oneline
+[?1h=[33m54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m story 182 : fix benchmarks for speed[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log --pretty=format : ""%"h" "-" "%"a"n"[C," "%"a"r" ":" "%"s"[C
+fatal: invalid --pretty format: format
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log --since[Ke=2.weeks
+[?1h=[33mcommit 54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Wed Nov 8 23:56:36 2023 +0530[m
+[m
+    story 182 : fix benchmarks for speed[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log -sfuntion[K[K[K[K[K[K[K funtion_name[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit comit --amend
+git: 'comit' is not a git command. See 'git --help'.
+
+The most similar command is
+	commit
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -m ''I'n'i't'i'a'l' 'c'o'm'm'i't'
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add forgotten_file
+fatal: pathspec 'forgotten_file' did not match any files
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add *
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git resr[Ket HEAD [K[K[K[K[KFEAD[K[K[K[KHea[K[KEAD CON[K[K[Kproject[K[K[K[K[K[K[KCONTRIBUTION.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt add *
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ ig[K[Kgit status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git restore --stage CONGT[K[KTRIBUING.md
+error: pathspec 'CONTRIBUING.md' did not match any file(s) known to git
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remote -v
+origin	git@github.com:sayantan-TA/TAMLEP.git (fetch)
+origin	git@github.com:sayantan-TA/TAMLEP.git (push)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ cd grit
+bash: cd: grit: No such file or directory
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remote -v
+origin	git@github.com:sayantan-TA/TAMLEP.git (fetch)
+origin	git@github.com:sayantan-TA/TAMLEP.git (push)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remote
+origin
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remote add pb https : // [Kgithub.com/paulboone/ticgit
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git ro[Kemor[Ktr[Ke -v
+origin	git@github.com:sayantan-TA/TAMLEP.git (fetch)
+origin	git@github.com:sayantan-TA/TAMLEP.git (push)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ go[Kit fetchpb[K[K pb
+fatal: 'pb' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git fetch pb
+fatal: 'pb' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push original master
+fatal: 'original' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remote show origin
+* remor te origin
+	 ^^V   
+
+^Z
+[1]+  Stopped                 git remote show origin
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag
+[?1h=[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag -l ""v"1"."8"."5"[C*"
+[?1h=[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag -a v1.4 -m ""[Cm"y" "v"e"r"s"i"o"n" "1"."4"[C
+> git tag
+> v).1
+> v)[K0.3
+> ^C
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ touch CONTI[KRIBUTI[KING.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ add [K[K[K[Kgit asd[K[Kdd CONTRIBUTING.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ echo ""m"y" "p"r"o"j"e"c"t"[C > README
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   README[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt add READD[KME
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ GI[K[Kgit status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mmodified:   README[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ vim CONTRIBUTING.md
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;18r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[18;1H"CONTRIBUTING.md" 0L, 0C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [m[18;103H0,0-1[9CAll[1;1H[?25h[?25l[18;93Hi[1;1H[18;93H [1;1H[18;1H[1m-- INSERT --[m[18;13H[K[18;103H0,1[11CAll[1;1H[?25h[?25lh[18;103H1,2[1;2H[?25h[?25li[18;105H3[1;3H[?25h[?25l[18;105H4[1;4H[?25h[?25lm[18;105H5[1;5H[?25h[?25ly[18;105H6[1;6H[?25h[?25l[18;105H7[1;7H[?25h[?25ln[18;105H8[1;8H[?25h[?25la[18;105H9[1;9H[?25h[?25lm[18;105H10[1;10H[?25h[?25le[18;106H1[1;11H[?25h[?25l[18;106H2[1;12H[?25h[?25li[18;106H3[1;13H[?25h[?25ls[18;106H4[1;14H[?25h[?25l[18;106H5[1;15H[?25h[?25ls[18;106H6[1;16H[?25h[?25la[18;106H7[1;17H[?25h[?25ly[18;106H8[1;18H[?25h[?25la[18;106H9[1;19H[?25h[?25ln[18;105H20[1;20H[?25h[?25la[18;106H1[1;21H[?25h[?25ln[18;106H2[1;22H[?25h[?25l[1;21H[K[18;106H1[1;21H[?25h[?25l[1;20H[K[18;106H0[1;20H[?25h[?25l[1;19H[K[18;105H19[1;19H[?25h[?25ln[18;105H20[1;20H[?25h[?25lt[18;106H1[1;21H[?25h[?25la[18;106H2[1;22H[?25h[?25ln[18;106H3[1;23H[?25h[18;1H[K[1;22H[?25l[18;93H^[[1;22H[18;93H  [1;23H[18;103H1,22[10CAll[1;22H[?25h[?25l[18;93Hw[1;22H[18;93H [1;22H[?25h[?25l[18;93Hq[1;22H[?25h[?25l[18;94Hw[1;22H[18;1H[1mrecording @w[m[18;93H[K[18;103H1,22[10CAll[1;22H[?25h[?25l[18;93Hq[1;22H[18;1H[K[1;22H[18;103H1,22[10CAll[1;22H[?25h[?25l[18;93H;[1;22H[18;93H [1;22H[?25h[?25l[18;93H:[1;22H[18;93H[K[18;1H:[?2004h[?25hwq[?25l[?2004l"CONTRIBUTING.md" 1L, 23C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mmodified:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git statusvim CONTRIBUTING.md[9Pgit statusadd README[4Pstatusecho "my project" > README[16Pgit statusadd CONTRIBUTING.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mmodified:   README[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status -s
+[32mA[m  CONTRIBUTING.md
+[32mM[m  README
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ cat .gitignore
+cat: .gitignore: No such file or directory
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ nano .git/[Kignore
+[?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           .gitignore                                                     [1;119H(B[m[17d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[16d[2d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2d[36m#[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mg[39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36ma[39m(B[m[?12l[?25h[?25l[36ml[39m(B[m[?12l[?25h[?25l[36ml[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36m.[39m(B[m[?12l[?25h[?25l[36ma[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mf[39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36ml[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36ms[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l [?12l[?25h[?25l[16d[K[3d[?12l[?25h[?25l*[?12l[?25h[?25l [?12l[?25h[?25l.[?12l[?25h[?25la[?12l[?25h[?25l[4d[?12l[?25h[?25l[36m#[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mb[39m(B[m[?12l[?25h[?25l [?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[36mb[39m(B[m[?12l[?25h[?25l[36mu[39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l [?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36ma[39m(B[m[?12l[?25h[?25l[36mc[39m(B[m[?12l[?25h[?25l[36mk[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36ml[39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mb[39m(B[m[?12l[?25h[?25l[36m.[39m(B[m[?12l[?25h[?25l[36ma[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36m,[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36mv[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36mh[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36mu[39m(B[m[?12l[?25h[?25l[36mg[39m(B[m[?12l[?25h[?25l[36mh[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mu[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mg[39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36mg[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36m.[39m(B[m[?12l[?25h[?25l[36ma[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mf[39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36ml[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36ms[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36ma[39m(B[m[?12l[?25h[?25l[36mb[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36mv[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[5d[?12l[?25h[?25l![?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25lb[?12l[?25h[?25l.[?12l[?25h[?25la[?12l[?25h[?25l[6d[?12l[?25h[?25l[36m#[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36ml[39m(B[m[?12l[?25h[?25l[36my[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mg[39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36mh[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mT[39m(B[m[?12l[?25h[?25l[36mO[39m(B[m[?12l[?25h[?25l[36mD[39m(B[m[?12l[?25h[?25l[36mO[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mf[39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36ml[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36ms[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36mh[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mc[39m(B[m[?12l[?25h[?25l[36mu[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36mU[39m(B[m[?12l[?25h[?25l [?12l[?25h[?25l[16;50H(B[0;7m[ Cutbuffer is empty ](B[m[6;42H[?12l[?25h[?25l[7d[?12l[?25h[?25l[6;42H[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36md[39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36me[39m(B[m[?12l[?25h[?25l[36mc[39m(B[m[?12l[?25h[?25l[36mt[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36my[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36m,[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36mn[39m(B[m[?12l[?25h[?25l[36mo[39m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[18;1H[?12l[?25h[?1049l[23;0;0t[?1l>[?2004h[?1049h[22;0;0t[1;18r[?25l[39;49m]104(B[m[4l[?7h[H[2J(B[0;7m  GNU nano 4.8                                           .gitignore                                           Modified  [2;1H(B[0m[36m# ignore all .a files[3d[39m(B[m* .a[4d[36m# butto track lib.a , even through ur ignoring .a files above[5d[39m(B[m!lib.a[6d[36m#only ignore the TODO file is the current directory , no[16;50H[39m(B[0;7m[ Cutbuffer is empty ][17d^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[6;57H[17d[J[16;48H(B[0;1m[37m[41m[ Error invoking "spell" ][39;49m(B[m[17d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[16d[6;57H[?12l[?25h[?1h=[?25l[36mt[39m(B[m[?12l[?25h[?25l[36m [39m(B[m[?12l[?25h[?25l[36ms[39m(B[m[?12l[?25h[?25l[36mu[39m(B[m[?12l[?25h[?25l[36mb[39m(B[m[?12l[?25h[?25l[36md[39m(B[m[?12l[?25h[?25l[36mi[39m(B[m[?12l[?25h[?25l[36mr[39m(B[m[?12l[?25h[?25l[36m/[39m(B[m[?12l[?25h[?25l[36mT[39m(B[m[?12l[?25h[?25l[36mO[39m(B[m[?12l[?25h[?25l[36mD[39m(B[m[?12l[?25h[?25l[36mO[39m(B[m[?12l[?25h[?25l[7d[?12l[?25h[?25l/[?12l[?25h[?25lT[?12l[?25h[?25lO[?12l[?25h[?25lD[?12l[?25h[?25lO[?12l[?25h[?25l[17;16H[15X[17;31H(B[0;7mM-D(B[m DOS Format[16X[17;61H(B[0;7mM-A(B[m Append[15X[17;93H(B[0;7mB(B[m Backup File[K[18;2H(B[0;7mC(B[m Cancel[16G[15X[18;31H(B[0;7mM-M(B[m Mac Format[16X[18;61H(B[0;7mM-P(B[m Prepend[19X[18;91H(B[0;7m^T(B[m To Files[K[16d(B[0;7mFile Name to Write: .gitignore                                                                                          [16;1H(B[m[16;31H[?12l[?25h[?25l[16;49H[1K (B[0;7m[ Writing to FIFO... ](B[m[K[16;50H    (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[16;52H(B[0;7m[ Wrote 6 lines ](B[m[17;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[18;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[16d[7;6H[?12l[?25h[?25l[16d[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ cat .gitignore
+# ignore all .a files
+* .a
+# butto track lib.a , even through ur ignoring .a files above
+!lib.a
+#only ignore the TODO file is the current directory , not subdir/TODO
+/TODO
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mmodified:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git diff
+[?1h=[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git diff --stage
+[?1h=error: invalid option: --stage[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git diff --staged
+[?1h=[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..df02ded[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mhi my name is sayantan[m[m
+[1mdiff --git a/README b/README[m[m
+[1mindex a1892e3..065bcad 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+[36m@@ -1 +1 @@[m[m
+[31m-CONTRIBUTING.md[m[m
+[32m+[m[32mmy project[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ echo ''#' 't'e's't' 'l'i'n'e' '[1P'[C >> CONTRIBUTING.md 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mmodified:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git diff --cached
+[?1h=[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..df02ded[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mhi my name is sayantan[m[m
+[1mdiff --git a/README b/README[m[m
+[1mindex a1892e3..065bcad 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+[36m@@ -1 +1 @@[m[m
+[31m-CONTRIBUTING.md[m[m
+[32m+[m[32mmy project[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;54H(B[0;7m[ Reading... ](B[m[16;52H(B[0;7m[ Read 18 lines ](B[m[H(B[0;7m  GNU nano 4.8                      /mnt/c/Users/KIIT/Desktop/TAMLEP/.git/COMMIT_EDITMSG                                [1;119H(B[m[17d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[16d[3d[39;49m[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch master[7d# Your branch is based on 'origin/master', but the upstream is gone.[8d#   (use "git branch --unset-upstream" to fixup)[9d#[10d# Changes to be committed:[11d#       new file:   CONTRIBUTING.md[12d#       modified:   README[13d#[14d# Changes not staged for commit:[15d#       modified:   CONTRIBUTING.md[2d[39m(B[m[?12l[?25h[?25l[17;16H[15X[17;31H(B[0;7mM-D(B[m DOS Format[16X[17;61H(B[0;7mM-A(B[m Append[15X[17;93H(B[0;7mB(B[m Backup File[K[18;2H(B[0;7mC(B[m Cancel[16G[15X[18;31H(B[0;7mM-M(B[m Mac Format[16X[18;61H(B[0;7mM-P(B[m Prepend[19X[18;91H(B[0;7m^T(B[m To Files[K[16d(B[0;7mFile Name to Write: /mnt/c/Users/KIIT/Desktop/TAMLEP/.git/COMMIT_EDITMSG                                                [16;1H(B[m[16;73H[?12l[?25h[?25l[16;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[16;52H(B[0;7m[ Wrote 18 lines ](B[m[17;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[18;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[16d[2d[?12l[?25h[?25l[16d[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l[KAborting commit due to empty commit message.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git config --global core.editor ""y"o"u"r"-"[1P"t"e"[1P"[1P"-"t"e"x"t"-"e"d"i"t"o"r"[C
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ rm [K[K[Krm PROJECTS.md
+rm: cannot remove 'PROJECTS.md': No such file or directory
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt log
+[?1h=[33mcommit 54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Wed Nov 8 23:56:36 2023 +0530[m
+[m
+    story 182 : fix benchmarks for speed[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log -p -2
+[?1h=[33mcommit 54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Wed Nov 8 23:56:36 2023 +0530[m
+[m
+    story 182 : fix benchmarks for speed[m
+[m
+[1mdiff --git a/README b/README[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..a1892e3[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/README[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mCONTRIBUTING.md[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log --stat
+[?1h=[33mcommit 54bb67e09f7161e5e45109584d7713b8a8fdad62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Wed Nov 8 23:56:36 2023 +0530[m
+[m
+    story 182 : fix benchmarks for speed[m
+[m
+ README | 1 [32m+[m[m
+ 1 file changed, 1 insertion(+)[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git comit [K[K[Kmit --amend
+hint: Waiting for your editor to close the file... error: cannot run your-text-editor: No such file or directory
+error: unable to start editor 'your-text-editor'
+Please supply the message using either -m or -F option.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -m ''I'n'i't'i'a'l' 'c'o'm'm'i't'[C
+[master ea34149] Initial commit
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 CONTRIBUTING.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add [K *
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   CONTRIBUTING.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add .gitignore
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mmodified:   CONTRIBUTING.md[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git rest[Ket HEAD CONTRIBUTING.md
+Unstaged changes after reset:
+M	CONTRIBUTING.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git cheackout -- CONTRIBUTING.md
+git: 'cheackout' is not a git command. See 'git --help'.
+
+The most similar command is
+	checkout
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git cheackout -- CONTRIBUTING.md[1P
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add *
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git restore --staged CONTRIBUTING.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git statusrestore --staged CONTRIBUTING.mdstatus[K[1Padd *statuscheckout -- CONTRIBUTING.md[1@a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kreset HEAD CONTRIBUTING.mdstatus[Kadd .gitignore[8Pstatus[1Padd *commit -m 'Initial commit'[12P-amendm 'Initial commit'add *[Kcommit -m 'Initial commit'[12P-amend[4Plog --stat[1Pp -2[Krm PROJECTS.mdgit config --global core.editor "your-text-editor"mmit[Kdiff --cached[7Pstatusecho '# test line' >> CONTRIBUTING.md [21Pgit diff --staged[K[Kstatuscat .gitignore[1@nano[C[C[C[C[C[C[C[C[C[C[C[1Pcat[C[C[C[C[C[C[C[C[C[C[C[1Pgit status -s[Kadd CONTRIBUTING.mdstatus[Kvim CONTRIBUTING.md[9Pgit statusadd README[4Pstatusecho "my project" > README[16Pgit statusadd CONTRIBUTING.md[2Ptouch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ touch CONTRIBUTING.md[Ktouch CONTRIBUTING.md[11Pgit statusrestore --staged CONTRIBUTING.mdstatus[K[1Padd *statuscheckout -- CONTRIBUTING.md[1@a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kreset HEAD CONTRIBUTING.mdstatus[Kadd .gitignore[8Pstatus[1Padd *commit -m 'Initial commit'[12P-amend[4Plog --stat[1Pp -2[Krm PROJECTS.mdgit config --global core.editor "your-text-editor"mmit[Kdiff --cached[7Pstatusecho '# test line' >> CONTRIBUTING.md [21Pgit diff --stagedecho '# test line' >> CONTRIBUTING.md 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ echo '# test line' >> CONTRIBUTING.md [17Ptouch CONTRIBUTING.md[11Pgit status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git statusecho '# test line' >> CONTRIBUTING.md [17Ptouch CONTRIBUTING.md[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add CONTRIBUTING.md 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ i[Kgit status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mmodified:   CONTRIBUTING.md[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git restore CONTRIBUTING.md
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mmodified:   CONTRIBUTING.md[m
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remore [K[K[Kte -v
+origin	git@github.com:sayantan-TA/TAMLEP.git (fetch)
+origin	git@github.com:sayantan-TA/TAMLEP.git (push)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ grit[K[K[K[Kcd grit
+bash: cd: grit: No such file or directory
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ no such directory file after cd grit
+no: command not found
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remore[K[Kte
+origin
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remor[Kte add pb https://github.com/paulboone/ticgit
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remote -v
+origin	git@github.com:sayantan-TA/TAMLEP.git (fetch)
+origin	git@github.com:sayantan-TA/TAMLEP.git (push)
+pb	https://github.com/paulboone/ticgit (fetch)
+pb	https://github.com/paulboone/ticgit (push)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git fetch pb
+warning: no common commits
+remote: Enumerating objects: 634, done.[K
+Receiving objects:   0% (1/634)Receiving objects:   1% (7/634)Receiving objects:   2% (13/634)Receiving objects:   3% (20/634)Receiving objects:   4% (26/634)Receiving objects:   5% (32/634)Receiving objects:   6% (39/634)Receiving objects:   7% (45/634)Receiving objects:   8% (51/634)Receiving objects:   9% (58/634)Receiving objects:  10% (64/634)Receiving objects:  11% (70/634)Receiving objects:  12% (77/634)Receiving objects:  13% (83/634)Receiving objects:  14% (89/634)Receiving objects:  15% (96/634)Receiving objects:  16% (102/634)Receiving objects:  17% (108/634)Receiving objects:  18% (115/634)Receiving objects:  19% (121/634)Receiving objects:  20% (127/634)Receiving objects:  21% (134/634)Receiving objects:  22% (140/634)Receiving objects:  23% (146/634)Receiving objects:  24% (153/634)Receiving objects:  25% (159/634)Receiving objects:  26% (165/634)Receiving objects:  27% (172/634)Receiving objects:  28% (178/634)Receiving objects:  29% (184/634)Receiving objects:  30% (191/634)Receiving objects:  31% (197/634)Receiving objects:  32% (203/634)Receiving objects:  33% (210/634)Receiving objects:  34% (216/634)Receiving objects:  35% (222/634)Receiving objects:  36% (229/634)Receiving objects:  37% (235/634)Receiving objects:  38% (241/634)Receiving objects:  39% (248/634)Receiving objects:  40% (254/634)Receiving objects:  41% (260/634)Receiving objects:  42% (267/634)Receiving objects:  43% (273/634)Receiving objects:  44% (279/634)Receiving objects:  45% (286/634)Receiving objects:  46% (292/634)Receiving objects:  47% (298/634)Receiving objects:  48% (305/634)Receiving objects:  49% (311/634)Receiving objects:  50% (317/634)Receiving objects:  51% (324/634)Receiving objects:  52% (330/634)Receiving objects:  53% (337/634)Receiving objects:  54% (343/634)Receiving objects:  55% (349/634)Receiving objects:  56% (356/634)Receiving objects:  57% (362/634)Receiving objects:  58% (368/634)Receiving objects:  59% (375/634)Receiving objects:  60% (381/634)Receiving objects:  61% (387/634)Receiving objects:  62% (394/634)Receiving objects:  63% (400/634)Receiving objects:  64% (406/634)Receiving objects:  65% (413/634)Receiving objects:  66% (419/634)Receiving objects:  67% (425/634)Receiving objects:  68% (432/634)Receiving objects:  69% (438/634)Receiving objects:  70% (444/634)Receiving objects:  71% (451/634)Receiving objects:  72% (457/634)Receiving objects:  73% (463/634)Receiving objects:  74% (470/634)Receiving objects:  75% (476/634)Receiving objects:  76% (482/634)Receiving objects:  77% (489/634)Receiving objects:  78% (495/634)Receiving objects:  79% (501/634)Receiving objects:  80% (508/634)Receiving objects:  81% (514/634)Receiving objects:  82% (520/634)Receiving objects:  83% (527/634)Receiving objects:  84% (533/634)Receiving objects:  85% (539/634)Receiving objects:  86% (546/634)Receiving objects:  87% (552/634)Receiving objects:  88% (558/634)Receiving objects:  89% (565/634)Receiving objects:  90% (571/634)Receiving objects:  91% (577/634)remote: Total 634 (delta 0), reused 0 (delta 0), pack-reused 634[K
+Receiving objects:  92% (584/634), 84.00 KiB | 158.00 KiB/sReceiving objects:  93% (590/634), 84.00 KiB | 158.00 KiB/sReceiving objects:  94% (596/634), 84.00 KiB | 158.00 KiB/sReceiving objects:  95% (603/634), 84.00 KiB | 158.00 KiB/sReceiving objects:  96% (609/634), 84.00 KiB | 158.00 KiB/sReceiving objects:  97% (615/634), 84.00 KiB | 158.00 KiB/sReceiving objects:  98% (622/634), 84.00 KiB | 158.00 KiB/sReceiving objects:  99% (628/634), 84.00 KiB | 158.00 KiB/sReceiving objects: 100% (634/634), 84.00 KiB | 158.00 KiB/sReceiving objects: 100% (634/634), 88.93 KiB | 174.00 KiB/s, done.
+Resolving deltas:   0% (0/261)Resolving deltas:   1% (3/261)Resolving deltas:   2% (6/261)Resolving deltas:   3% (9/261)Resolving deltas:   4% (11/261)Resolving deltas:   5% (14/261)Resolving deltas:   7% (20/261)Resolving deltas:  10% (27/261)Resolving deltas:  22% (60/261)Resolving deltas:  24% (63/261)Resolving deltas:  26% (69/261)Resolving deltas:  27% (72/261)Resolving deltas:  28% (74/261)Resolving deltas:  29% (77/261)Resolving deltas:  30% (79/261)Resolving deltas:  31% (83/261)Resolving deltas:  32% (84/261)Resolving deltas:  36% (95/261)Resolving deltas:  37% (98/261)Resolving deltas:  38% (100/261)Resolving deltas:  39% (102/261)Resolving deltas:  40% (105/261)Resolving deltas:  41% (109/261)Resolving deltas:  42% (110/261)Resolving deltas:  43% (114/261)Resolving deltas:  44% (115/261)Resolving deltas:  45% (119/261)Resolving deltas:  49% (128/261)Resolving deltas:  50% (132/261)Resolving deltas:  52% (137/261)Resolving deltas:  55% (146/261)Resolving deltas:  59% (154/261)Resolving deltas:  61% (160/261)Resolving deltas:  62% (164/261)Resolving deltas:  63% (165/261)Resolving deltas:  65% (172/261)Resolving deltas:  67% (176/261)Resolving deltas:  68% (180/261)Resolving deltas:  71% (187/261)Resolving deltas:  73% (193/261)Resolving deltas:  77% (201/261)Resolving deltas:  81% (212/261)Resolving deltas: 100% (261/261)Resolving deltas: 100% (261/261), done.
+From https://github.com/paulboone/ticgit
+ * [new branch]      master     -> pb/master
+ * [new branch]      ticgit     -> pb/ticgit
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin master
+^Z
+[2]+  Stopped                 git push origin master
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remote show origin
+* remor ^Z
+[3]+  Stopped                 git remote show origin
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt remote rename pb paul
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remor[Kte
+origin
+paul
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remoteremove paul
+git: 'remoteremove' is not a git command. See 'git --help'.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git remoteremove paul[1@ [C[C[C[C[C[C[C[C[C[C[C
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt remor[Kte
+origin
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag -l
+[?1h=[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git t[K[K[K[K[Kgit tag -a v1.4 -m ""m"y" "v"e"r"s"i"o"n" "1"."4"[C
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag -l
+[?1h=v1.4[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git show v1.4
+[?1h=[33mtag v1.4[m[m
+Tagger: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Thu Nov 9 08:48:11 2023 +0530[m
+[m
+my version 1.4[m
+[m
+[33mcommit ea34149c26969918eee34f3e3b9b49faaf2f02c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Thu Nov 9 08:35:27 2023 +0530[m
+[m
+    Initial commit[m
+[m
+[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..df02ded[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+:[K[K[36m@@ -0,0 +1 @@[m[m
+:[K[K[32m+[m[32mhi my name is sayantan[m[m
+:[K[K[1mdiff --git a/README b/README[m[m
+:[K[K[1mindex a1892e3..065bcad 100644[m[m
+:[K[K[1m--- a/README[m[m
+:[K[K[1m+++ b/README[m[m
+:[K[K[36m@@ -1 +1 @@[m[m
+:[K[K[31m-CONTRIBUTING.md[m[m
+:[K[K[32m+[m[32mmy project[m[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[?1l>
+[4]+  Stopped                 git show v1.4
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag v1.4-lw
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag
+[?1h=v1.4[m
+v1.4-lw[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git show v1.4-lw
+[?1h=[33mcommit ea34149c26969918eee34f3e3b9b49faaf2f02c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.4[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Thu Nov 9 08:35:27 2023 +0530[m
+[m
+    Initial commit[m
+[m
+[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..df02ded[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mhi my name is sayantan[m[m
+[1mdiff --git a/README b/README[m[m
+[1mindex a1892e3..065bcad 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+:[K[K[36m@@ -1 +1 @@[m[m
+:[K[K[31m-CONTRIBUTING.md[m[m
+:[K[K[32m+[m[32mmy project[m[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[?1l>
+[5]+  Stopped                 git show v1.4-lw
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git show --pretty=oneline
+[?1h=[33mea34149c26969918eee34f3e3b9b49faaf2f02c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.4[m[33m)[m Initial commit[m
+[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..df02ded[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mhi my name is sayantan[m[m
+[1mdiff --git a/README b/README[m[m
+[1mindex a1892e3..065bcad 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+[36m@@ -1 +1 @@[m[m
+[31m-CONTRIBUTING.md[m[m
+[32m+[m[32mmy project[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag -a v1.2 9fceb02
+fatal: Failed to resolve '9fceb02' as a valid ref.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin --tags
+^Z
+[6]+  Stopped                 git push origin --tags
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin v1.5
+error: src refspec v1.5 does not match any
+[31merror: failed to push some refs to 'git@github.com:sayantan-TA/TAMLEP.git'
+[m]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin v1.5[K4
+
+
+
+
+
+
+
+
+^Z
+[7]+  Stopped                 git push origin v1.4
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git tag -d v1.4-lw
+Deleted tag 'v1.4-lw' (was ea34149)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout v2.0.0
+error: pathspec 'v2.0.0' did not match any file(s) known to git
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git config --global alias.co checkout
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git cong[Kffig[K[K[Kig --global alias.br branch
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git config --l[Kglobal alias.ci commit
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git config --global alias.st status
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git config --global unstageaunstagelunstageiunstageaunstagesunstage.unstage[C[C[C[C[C[C[C ''r'e's'e't' 'H'E'A'D' '-'-'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git unstage fileA
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git resr[Ket HEAD -- fileA
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git config --global alias.k[Klast ''l'o'g'-'1' 'H'E'A'D'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git las
+git: 'las' is not a git command. See 'git --help'.
+
+The most similar command is
+	last
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git last
+expansion of alias 'last' failed; 'log-1' is not a git command
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git last[Kconfig --global alias.last 'log-1 HEAD'[1@ 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git config --global alias.last 'log -1 HEAD'last[K
+[?1h=[33mcommit ea34149c26969918eee34f3e3b9b49faaf2f02c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4[m[33m)[m[m
+Author: sayantan-TA <sayantan.chakrab@tigeranalytics.com>[m
+Date:   Thu Nov 9 08:35:27 2023 +0530[m
+[m
+    Initial commit[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt config =[K--global alias.visual ''!'g'i't'k'[C
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add E[KREADME test.rb LICENSE
+fatal: pathspec 'test.rb' did not match any files
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ TOUCH REA[K[K[K[K[K[K[K[K[Ktouch README LICENSE
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add README tes[Kst.rb LICENSE
+fatal: pathspec 'test.rb' did not match any files
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ RESOLVE THIS ERROR
+RESOLVE: command not found
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ TOUCH TEST.RB[K[K[K[K[K[K[K[K[K[K[K[K[Ko[Ktouch test.rb
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add test.rb
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -m ""a"[1P"A"D"D" "[1P"[1P"[1P"d"d" "t"e"e"s"[1P"[1P"[1P"s"[1P"e"s"t"."r"b"[C
+[master c315d26] Add test.rb
+ 3 files changed, 7 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 test.rb
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add README test.rb LICENSE 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -m ''I'N'[1P'n'i't'i'a'l' 'c'o'm'm'i't'
+[master 1570b0f] Initial commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 LICENSE
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log --oneline --decorate
+[?1h=[33m1570b0f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Initial commit[m
+[33mc315d26[m Add test.rb[m
+[33mea34149[m[33m ([m[1;33mtag: v1.4[m[33m)[m Initial commit[m
+[33m54bb67e[m story 182 : fix benchmarks for speed[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout testing
+error: pathspec 'testing' did not match any file(s) known to git
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ vim test.rb
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;18r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[18;1H"test.rb" 0L, 0C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [m[18;103H0,0-1[9CAll[1;1H[?25h[?25l[18;93Hh[1;1H[18;93H [1;1H[?25h[?25l[18;93Hi[1;1H[18;93H [1;1H[18;1H[1m-- INSERT --[m[18;13H[K[18;103H0,1[11CAll[1;1H[?25h[?25lh[18;103H1,2[1;2H[?25h[?25li[18;105H3[1;3H[?25h[?25l[2;1H[K[18;103H2,1[2;1H[?25h[18;1H[K[2;1H[?25l[18;93H^[[2;1H[18;93H  [2;1H[18;103H2,0-1[9CAll[2;1H[?25h[?25l[18;93H^M[2;1H[18;93H  [2;1H[?25h[?25l[18;93H^[[2;1H[18;93H  [2;1H[18;93H^[[2;1H[18;93H  [2;1H[?25h[?25l[18;93Hw[2;1H[18;93H [2;1H[?25h[?25l[18;93Hq[2;1H[?25h[?25l[18;94H~@k[2;1H[18;93H    [2;1H[?25h[?25l[18;93H~@k[2;1H[18;93H   [1;2H[18;103H1,2  [1;2H[?25h[?25l[18;93H^[[1;2H[18;93H  [1;2H[18;93H^[[1;2H[18;93H  [1;2H[?25h[?25l[18;93H^[[1;2H[18;93H  [1;2H[18;93H^[[1;2H[18;93H  [1;2H[?25h[?25l[18;93H^[[1;2H[18;93H  [1;2H[18;93H^[[1;2H[18;93H  [1;2H[?25h[?25l[18;93Hw[1;2H[18;93H [2;1H[18;103H2,0-1[2;1H[?25h[?25l[18;93Hq[2;1H[?25h[?25l[18;94Hq[2;1H[18;1H[1mrecording @q[m[18;93H[K[18;103H2,0-1[9CAll[2;1H[?25h[?25l[18;93Hq[2;1H[18;1H[K[2;1H[18;103H2,0-1[9CAll[2;1H[?25h[?25l[18;93Hq[2;1H[?25h[?25l[18;94Hq[2;1H[18;1H[1mrecording @q[m[18;93H[K[18;103H2,0-1[9CAll[2;1H[?25h[?25l[18;93Hw[2;1H[18;93H [2;1H[?25h[?25l[18;93Hq[2;1H[18;1H[K[2;1H[18;103H2,0-1[9CAll[2;1H[?25h[?25l[18;93H^O[2;1H[18;93H  [1;1H[18;103H1,1  [1;1H[?25h[?25l[18;93H^[[1;1H[18;93H  [1;1H[18;93H^[[1;1H[18;93H  [1;1H[?25h[?25l[18;93H^[[1;1H[18;93H  [1;1H[18;93H^[[1;1H[18;93H  [1;1H[?25h[?25l[18;93H:[1;1H[18;93H[K[18;1H:[?2004h[?25hwq[?25l[?2004l"test.rb" 2L, 4C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -1[Ka -m ''M'a'k'e' 'a' 'c'h'a'n'g'e'
+[master d213bbc] Make a change
+ 1 file changed, 2 insertions(+)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout master
+Already on 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git log --oneline --decorate --graph --all
+[?1h=* [33md213bbc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Make a change[m
+* [33m1570b0f[m Initial commit[m
+* [33mc315d26[m Add test.rb[m
+* [33mea34149[m[33m ([m[1;33mtag: v1.4[m[33m)[m Initial commit[m
+* [33m54bb67e[m story 182 : fix benchmarks for speed[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git sq[Kwitch
+fatal: missing branch or commit argument
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git switch master
+Already on 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git switch -c first-branch
+Switched to a new branch 'first-branch'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gir[Kt switch
+fatal: missing branch or commit argument
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git switch -
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git bra[K[K[Kswitch [K[K[K[K[K[K[Kcheckout -b first-branch 
+fatal: A branch named 'first-branch' already exists.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout -b first-branch [K[K[K[K[K[K[K[K[K[K[K[K[Kiss53
+Switched to a new branch 'iss53'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ vim index.html
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;18r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[18;1H"index.html" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [m[18;103H0,0-1[9CAll[1;1H[?25h[?25l[18;93Hh[1;1H[18;93H [1;1H[?25h[?25l[18;93Hi[1;1H[18;93H [1;1H[18;1H[1m-- INSERT --[m[18;14H[K[18;103H0,1[11CAll[1;1H[?25h[?25lh[18;103H1,2[1;2H[?25h[?25le[18;105H3[1;3H[?25h[?25ll[18;105H4[1;4H[?25h[?25ll[18;105H5[1;5H[?25h[?25lo[18;105H6[1;6H[?25h[?25l[18;105H7[1;7H[?25h[?25lh[18;105H8[1;8H[?25h[?25lt[18;105H9[1;9H[?25h[?25ll[18;105H10[1;10H[?25h[?25l[1;9H[K[18;105H9 [1;9H[?25h[?25lm[18;105H10[1;10H[?25h[?25ll[18;106H1[1;11H[?25h[?25l[2;1H[K[18;103H2,1 [2;1H[?25h[18;1H[K[2;1H[?25l[18;93H^[[2;1H[18;93H  [2;1H[18;103H2,0-1[9CAll[2;1H[?25h[?25l[18;93H:[2;1H[18;93H[K[18;1H:[?2004h[?25hwq[?25l[?2004l"index.html" [New] 2L, 12C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -a -m ''C'r'e't'a'e'[1P'[1P'[1P'a't'e' 'n'e'w' 'f'o'o't'e'r' '[']'i]'s]'s]'u]'e]' ]'5]'3]'
+On branch iss53
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mindex.html[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkot[Kut master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git chh[Keckout -b hotflix
+Switched to a new branch 'hotflix'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ vim index[K[K[K[K[K[K[K[K[Knano index.html
+[?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;54H(B[0;7m[ Reading... ](B[m[16;53H(B[0;7m[ Read 2 lines ](B[m[H(B[0;7m  GNU nano 4.8                                           index.html                                                     [1;119H(B[m[17d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[16d[2d[39;49m(B[mhello html[?12l[?25h[?25l[17;16H[15X[17;31H(B[0;7mM-D(B[m DOS Format[16X[17;61H(B[0;7mM-A(B[m Append[15X[17;93H(B[0;7mB(B[m Backup File[K[18;2H(B[0;7mC(B[m Cancel[16G[15X[18;31H(B[0;7mM-M(B[m Mac Format[16X[18;61H(B[0;7mM-P(B[m Prepend[19X[18;91H(B[0;7m^T(B[m To Files[K[16d(B[0;7mFile Name to Write: index.html                                                                                          [16;1H(B[m[16;31H[?12l[?25h[?25l[16;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[16;52H(B[0;7m[ Wrote 2 lines ](B[m[17;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[18;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[16d[2d[?12l[?25h[?25l[16d[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -1[Ka -m ''F'I'[1P'i'x' 'b'r'o'k'e'n' 'e'm'a'i'l' 'a'd'd'r'e's's'
+On branch hotflix
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mindex.html[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add index.html
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add index.htmlcommit -a -m 'Fix broken email address'
+[hotflix ca3ecdb] Fix broken email address
+ 1 file changed, 2 insertions(+)
+ create mode 100644 index.html
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git marge hitfix
+git: 'marge' is not a git command. See 'git --help'.
+
+The most similar command is
+	merge
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git marge hitfix[1P[1@e
+merge: hitfix - not something we can merge
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git merge hitfix[1Ptfixotfix
+merge: hotfix - not something we can merge
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git merge hotfixlix
+Updating d213bbc..ca3ecdb
+Fast-forward
+ index.html | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+ create mode 100644 index.html
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch -d hotflix 
+Deleted branch hotflix (was ca3ecdb).
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit[K[K[K[K[K[K[K[K[K[Kgit checkout iss54[K3
+Switched to branch 'iss53'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ vim[K[K[Knano index.html
+[?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           index.html                                                     [1;119H(B[m[17d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[16d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2df[?12l[?25h[?25li[?12l[?25h[?25li[?12l[?25h[?25l [?12l[?25h[?25ln[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25l [?12l[?25h[?25ln[?12l[?25h[?25le[?12l[?25h[?25lw[?12l[?25h[?25l [?12l[?25h[?25lf[?12l[?25h[?25lo[?12l[?25h[?25lo[?12l[?25h[?25lt[?12l[?25h[?25le[?12l[?25h[?25lr[?12l[?25h[?25l [?12l[?25h[?25l[17;16H[15X[17;31H(B[0;7mM-D(B[m DOS Format[16X[17;61H(B[0;7mM-A(B[m Append[15X[17;93H(B[0;7mB(B[m Backup File[K[18;2H(B[0;7mC(B[m Cancel[16G[15X[18;31H(B[0;7mM-M(B[m Mac Format[16X[18;61H(B[0;7mM-P(B[m Prepend[19X[18;91H(B[0;7m^T(B[m To Files[K[16d(B[0;7mFile Name to Write: index.html                                                                                          [16;1H(B[m[16;31H[?12l[?25h[?25l[16;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[16;53H(B[0;7m[ Wrote 1 line ](B[m[17;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[18;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[16d[2;19H[?12l[?25h[?25l[16;53H (B[0;7m[ Writing... ](B[m[K[1;119H[16;53H(B[0;7m[ Wrote 1 line ](B[m[2;19H[?12l[?25h[?25l[16d[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -a -m 'F i n i s h [C t h e [C n e w [C f o o t e r [1@ [1P[1P[1@ [2@''[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[]i]s]s]u]r]e][1P][1P]e] ]5]3][C''[K
+On branch iss53
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mindex.html[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add index [K.html
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add index.htmlcommit -a -m 'Finish the new footer [issue 53]'
+[iss53 4d6cae8] Finish the new footer [issue 53]
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git chommit -a -m 'Finish the new footer [issue 53]'add index.html[Kcommit -a -m 'Finish the new footer [issue 53]'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnano index.html[Kgit checkout iss53branch -d hotflix [5Pmerge hotflix[1Pixitfixa[C[C[C[C[C[C[C[C[C[Ccheckout masterommit -a -m 'Fix broken email address'[25Padd index.htmlcommit -a -m 'Fix broken email address'[24Pheckout master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git marge iss53
+git: 'marge' is not a git command. See 'git --help'.
+
+The most similar command is
+	merge
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git marge iss53[1P[1@e
+CONFLICT (add/add): Merge conflict in index.html
+Auto-merging index.html
+Automatic merge failed; fix conflicts and then commit the result.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add index.html 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit -m ""R"e"s"o"l"v"e" "m"e"r"g"e" "c"o"n"f"i"l"c"e"[1P"t"[1P"[1P"[1P"[1P"l"i"c"t" "i"n" "i"n"d"e"x" "[1P"."h"t"m"l"
+[master 19bb206] Resolve merge conflict in index.html
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git merge --continue
+fatal: There is no merge in progress (MERGE_HEAD missing).
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git merge --continuecommit -m "Resolve merge conflict in index.html"add index.html [K[4Pmerge iss53a[C[C[C[C[C[C[C[C[C
+git: 'marge' is not a git command. See 'git --help'.
+
+The most similar command is
+	merge
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git marge iss53erge --continue[5Parge iss53erge --continuecommit -m "Resolve merge conflict in index.html"add index.html [K[4Pmerge iss53
+Already up to date.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git brac[Knch -d iss53
+Deleted branch iss53 (was 4d6cae8).
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch
+[?1h=  first-branch[m[m
+* [32mmaster[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch -v
+[?1h=  first-branch[m d213bbc Make a change[m
+* [32mmaster      [m 19bb206 [gone] Resolve merge conflict in index.html[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch -v[Kstatusbranch -d iss53[4Pmerge[C[C[C[C[C[Ca[C[C[C[C[C[C[C[C[Cerge --continuecommit -m "Resolve merge conflict in index.html"add index.html [K[4Pmerge iss53a[C[C[C[C[C[C[C[C[Ccheckout masterommit -a -m 'Finish the new footer [issue 53]'add index.html[Kcommit -a -m 'Finish the new footer [issue 53]'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnano index.html[Kgit checkout iss53
+error: pathspec 'iss53' did not match any file(s) known to git
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checout[K[K[Kkout iss54
+error: pathspec 'iss54' did not match any file(s) known to git
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout iss54-iss54biss54 iss54
+Switched to a new branch 'iss54'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ nano index.html
+[?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;54H(B[0;7m[ Reading... ](B[m[16;53H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 4.8                                           index.html                                                     [1;119H(B[m[17d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[18d(B[0;7m^X(B[m Exit[18;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[16d[2d[39;49m(B[m<<<<<<< HEAD[3dhello html[5d=======[6dfinish new footer[7d>>>>>>> iss53[2d[?12l[?25h[?25l[17;16H[15X[17;31H(B[0;7mM-D(B[m DOS Format[16X[17;61H(B[0;7mM-A(B[m Append[15X[17;93H(B[0;7mB(B[m Backup File[K[18;2H(B[0;7mC(B[m Cancel[16G[15X[18;31H(B[0;7mM-M(B[m Mac Format[16X[18;61H(B[0;7mM-P(B[m Prepend[19X[18;91H(B[0;7m^T(B[m To Files[K[16d(B[0;7mFile Name to Write: index.html                                                                                          [16;1H(B[m[16;31H[?12l[?25h[?25l[16;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[16;52H(B[0;7m[ Wrote 6 lines ](B[m[17;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[18;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[16d[2d[?12l[?25h[?25l[16;52H  (B[0;7m[ Writing... ](B[m[K[1;119H[16;52H(B[0;7m[ Wrote 6 lines ](B[m[2d[?12l[?25h[?25l[16d[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git commit a[K-a -m ''F'i'n'i's'h' 't'h' 'n'e'w' 'f'o'o't'e'r' '[']'i's's'[1P'[1P'[1P'i]'s]'s]'u]'e]' ]'5]'3]'[C[C[1P]'4]'
+On branch iss54
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ add index.html [1@g[1@i[1@t[1@ 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add index.html commit -a -m 'Finish th new footer [issue 54]'
+On branch iss54
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git merge iss54 
+Already up to date.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch
+[?1h=  first-branch[m[m
+  iss54[m[m
+* [32mmaster[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ gti[K[Kit iss54[K[K[K[K[Kbranch -v
+[?1h=  first-branch[m d213bbc Make a change[m
+  iss54       [m 19bb206 Resolve merge conflict in index.html[m
+* [32mmaster      [m 19bb206 [gone] Resolve merge conflict in index.html[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch --merged
+[?1h=  first-branch[m[m
+  iss54[m[m
+* [32mmaster[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch --no-merged
+[?1h=[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git n[Kbranch --move bad [K-brancg[Kh-name corrected-brancg[Kh-name
+error: refname refs/heads/bad-branch-name not found
+fatal: Branch rename failed
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch
+[?1h=  first-branch[m[m
+  iss54[m[m
+* [32mmaster[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch --move bad-branch-name corrected-branch-name[C[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1P corrected-branch-name[1Pcorrected-branch-name[1P corrected-branch-namee corrected-branch-name[C corrected-branch-namef corrected-branch-namei corrected-branch-namer corrected-branch-names corrected-branch-namet corrected-branch-name- corrected-branch-nameb corrected-branch-namer corrected-branch-namea corrected-branch-namen corrected-branch-namec corrected-branch-nameh corrected-branch-name[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kiss53
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push --set-upstream orih[Kgin iss53
+show
+^Z
+[8]+  Stopped                 git push --set-upstream origin iss53
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch -vv
+[?1h=  iss53 [m d213bbc Make a change[m
+  iss54 [m 19bb206 Resolve merge conflict in index.html[m
+* [32mmaster[m 19bb206 [[34morigin/master[m: gone] Resolve merge conflict in index.html[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch --akk[K[Kll
+[?1h=  iss53[m[m
+  iss54[m[m
+* [32mmaster[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin --delete first-branch
+^Z
+[9]+  Stopped                 git push origin --delete first-branch
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin --delete first-branch[21Pbranch --all
+[?1h=  iss53[m[m
+  iss54[m[m
+* [32mmaster[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch --move master main
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push --set-upstream origin main
+^Z
+[10]+  Stopped                 git push --set-upstream origin main
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push --set-upstream origin main[6Pbranch --move master[C[C[C[C[Call[K
+[?1h=  iss53[m[m
+  iss54[m[m
+* [32mmain[m[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git fetch origin
+^Z
+[11]+  Stopped                 git fetch origin
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch -v -a
+[?1h=  iss53[m d213bbc Make a change[m
+  iss54[m 19bb206 Resolve merge conflict in index.html[m
+* [32mmain [m 19bb206 [gone] Resolve merge conflict in index.html[m
+[K[?1l>]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout experiment
+error: pathspec 'experiment' did not match any file(s) known to git
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout experiment-experimentbexperiment experiment
+Switched to a new branch 'experiment'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git rebase master
+fatal: invalid upstream 'master'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git rebase master[K[K[K[K[K[K[K main
+Current branch experiment is up to date.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout master
+error: pathspec 'master' did not match any file(s) known to git
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git checkout master[K[K[K[K[K[Kmain
+Switched to branch 'main'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git merge experiment
+Already up to date.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git rebase =[K--onto mian server client
+fatal: invalid upstream 'server'
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch main
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ ga[Kit add .
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git comi[Kmit [K -m[Kn [K[K,[Km ""f"i"r"s" "c"o"m"m"i"t"[C
+On branch main
+
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ 
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch unset un[Kp[K[K[K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch unset --[K[K[K[K[K[K[K[K--unset -up[K[K[K[K-upstream
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git branch --unset-upstreamcommit -m "firs commit"
+On branch main
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git init
+Reinitialized existing Git repository in /mnt/c/Users/KIIT/Desktop/TAMLEP/.git/
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git status
+On branch main
+nothing to commit, working tree clean
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git add .
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ [K]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin-mas[K[K[K[K master
+error: src refspec master does not match any
+[31merror: failed to push some refs to 'git@github.com:sayantan-TA/TAMLEP.git'
+[m]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin master[K[K[K[K[K[Kmain
+To github.com:sayantan-TA/TAMLEP.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'git@github.com:sayantan-TA/TAMLEP.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git pull
+warning: no common commits
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+Unpacking objects:  33% (1/3)Unpacking objects:  66% (2/3)remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects: 100% (3/3)Unpacking objects: 100% (3/3), 18.98 KiB | 108.00 KiB/s, done.
+From github.com:sayantan-TA/TAMLEP
+ * [new branch]      main       -> origin/main
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ git push origin main
+To github.com:sayantan-TA/TAMLEP.git
+ [31m! [rejected]       [m main -> main (non-fast-forward)
+[31merror: failed to push some refs to 'git@github.com:sayantan-TA/TAMLEP.git'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ exit
+exit
+There are stopped jobs.
+]0;kiit@IT1906058: /mnt/c/Users/KIIT/Desktop/TAMLEP[01;32mkiit@IT1906058[00m:[01;34m/mnt/c/Users/KIIT/Desktop/TAMLEP[00m$ exit
+exit
+client_loop: send disconnect: Connection timed out
+[K[K
+Script done on 2023-11-09 11:06:37+05:30 [COMMAND_EXIT_CODE="1"]
